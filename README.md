@@ -1,5 +1,5 @@
 **Project Description** <br/>
-This is a final project of the Introduction to data Course, which is one of the Business Analytics' Courses. In this project, you must to prepare and analyze the data, and sharing the findings as a presentation that explaining the most important insights. I spend 5 almost 5 days in this project, it was useful and challenging. <br/>
+This is a final project of the Introduction to data Course, which is one of the Business Analytics' Courses. In this project, you must prepare and analyze the data, and sharing the findings as a presentation that explaining the most important insights. I spent almost 5 days on this project, it was useful and challenging. <br/>
 <br/>
 **Getting Dataset** <br/>
 You can get the entire dataset via Kaggle platform. In this project I used the fundamentals.csv file as a smaller subset of the data. <br/>
