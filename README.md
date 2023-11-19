@@ -47,6 +47,9 @@ To do these complex and long process we need to build a methodology to be as a p
  In this part, I created a simple presentation that concise and convey all the questions' answers which related to the descriptive analysis. And sharing a copy of sheets that contain the P&L Statement and the financial model dashboard. <br/>
 
 **Project Outcomes** <br/>
+1. IT Sub Industry Summary Statistics. <br/>
+2. Dynamic P&L Statement for 500 companies. <br/>
+3. Dynamic Forecasting Financial Model. <br/> 
 
 
 That is all for now.
